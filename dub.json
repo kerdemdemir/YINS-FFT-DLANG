@@ -1,0 +1,16 @@
+{
+	"name" : "cutTask",
+	"targetType": "executable",
+	"dependencies" : {
+
+	},  
+	"importPaths": [
+		"source/", 
+		"waved/"
+	],	 
+	"libs": [
+		"wave-d"
+	],
+	"configurations": [
+	]
+}
